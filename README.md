@@ -1,7 +1,9 @@
 # Sample projects for ASP.NET with .NET Framework
 
-## Common NuGet Packages
+## Requirements
+- Visual Studion 2017 (v15.8.x)
 - ASP.NET Core v2.1.x
+- .NET Framework v4.6.1
 - Microsoft.Extensions.Logging v2.1.x
 - ReflectInsight.Extensions.Logging v2.1.x
 
