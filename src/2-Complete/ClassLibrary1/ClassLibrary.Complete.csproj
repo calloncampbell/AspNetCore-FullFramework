@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.Extensions.Logging" Version="2.1.1" />
+    <PackageReference Include="Plato.Core" Version="2.0.132" />
     <PackageReference Include="ReflectInsight.Extensions.Logging" Version="2.1.0" />
   </ItemGroup>
 
